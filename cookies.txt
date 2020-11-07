@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+sjesinstitutions.com	TRUE	/	FALSE	1999999999	PHPSESSID	6fb2f82747056a6f1c759ee1cedd060a
+
